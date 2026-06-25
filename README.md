@@ -1,5 +1,4 @@
 # Customer-Churn-Prediction-CodSoft-Internship
-# Customer Churn Prediction using Machine Learning
 
 ## Overview
 
